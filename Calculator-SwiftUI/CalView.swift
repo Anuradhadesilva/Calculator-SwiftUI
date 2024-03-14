@@ -40,6 +40,6 @@ enum CalculatorButtons: String{
         }
     }
 }
-enum operation {
-    case add, subtract, divide, multiply, none
+enum Operation {
+    case add, substract, divide, multiply, none
 }
